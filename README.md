@@ -1,4 +1,4 @@
-# to-do
+
 # ✅ To-Do List App
 
 > "A task not written is a task soon forgotten."  
